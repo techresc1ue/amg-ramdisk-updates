@@ -1,0 +1,8 @@
+{
+  "Version": "1.0.0",
+  "ReleaseDate": "2024-01-15",
+  "DownloadUrl": "https://www.mediafire.com/file/YOUR_FILE_ID/AMG_RAMDISK_Setup.exe",
+  "Changelog": "- Initial release\n- Boot ramdisk support\n- Telegram backup",
+  "IsMandatory": false,
+  "MinimumVersion": "1.0.0"
+}
